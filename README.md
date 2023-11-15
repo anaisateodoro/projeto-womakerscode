@@ -1,27 +1,54 @@
-# projeto-womakerscode
+# 💻 Projeto Final de Curso 
 
-<p>Turma 3 - Curso Programação Web para Iniciantes</p>
+<h1 align="center" [WoMakersCode 🦋]</h1>
+<h2 align="center">Turma 3 - Curso Programação Web para Iniciantes</h2>
+<h3 align="center"> 📓 Período de 15 a 24/11/2023 📌 </h3>
 
-Obtivemos a experiência numa jornada de 5 semanas de curso em habilidades práticas e ferramentas de desenvolvimento web com a instrução de grandes desenvolvedoras da comunidade da WoMakersCode.
-
-## Estruturas e Requisitos
-
-<p>Criar um site sobre uma mulher importante na tecnologia em qual celebre o impacto significativo no mundo STEM (Ciências, Tecnologia, Engenharia e Matemática).</p>
+<h4 align="center"> 
+	🚧 🚀 Em construção...  🚧
+</h4>
 
 
-## Tecnologias utilizadas
+## 1 - Estruturas e Requisitos 📁
+
+<p>🌻 Obtivemos a experiência numa jornada de 5 semanas de curso em habilidades práticas e ferramentas de desenvolvimento web com a instrução de grandes desenvolvedoras da comunidade da WoMakersCode.</p>
+
+<p> 😀 Criar um site sobre uma mulher importante na tecnologia em qual celebre o impacto significativo no mundo STEM (Ciências, Tecnologia, Engenharia e Matemática).</p>
+
+- [x] Bio da mulher escolhida;
+- [x] Criar o site com uso das stacks aprendidas;
+- [x] Por fim, inserir aqui no Github o resultado;
+
+## 2 - Tecnologias utilizadas 🛠️
 
 <table style="margin-left: auto; margin-right: auto;">
-  <tr><th>Stack</th>           <th>Nivel</th>      <th># In progress</th></tr>
-  <tr><td>Html</td>   <td>Basic</td>       <td>✏️</td></tr>
-  <tr><td>Css</td>        <td>Basic</td>       <td>💄</td></tr>
-  <tr><td>JavaScript</td>        <td>Basic</td>       <td>🚀</td></tr>
+  <tr><th>Stack</th>           <th>Boas Práticas</th>      <th># In progress</th></tr>
+  <tr><td>Html</td>   <td>SEO</td>       <td>✏️</td></tr>
+  <tr><td>Css</td>        <td>BEM</td>       <td>💄</td></tr>
+  <tr><td>JavaScript</td>        <td>DOM</td>       <td>🚀</td></tr>
 </table>
 
-## Tema escolhido
+## 3 - Tema escolhido 💻
 
-<p>Desenvolvedora de software altamente experiente e conhecida por seus feitos em comunidades de tecnologia,Loiane Groner compartilha seus conhecimentos como uma speaker e dev internacional, fornecendo treinamentos técnicos e autoshields.io gitrando livros, artigos e blogs.</p>
-<p>Além disso, mantém uma presença forte no GitHub e na comunidade da WoMakersCode. Uma verdadeira referência para nós mulheres.</p>
+👩‍💻 Desenvolvedora de software altamente experiente e conhecida por seus feitos em comunidades de tecnologia, **Loiane Groner** compartilha seus conhecimentos como uma speaker e dev internacional, fornecendo treinamentos técnicos e escrevendo livros, artigos e blogs. 📚💻
+
+<div align="center">
+    <img width="100px" title="Loiane Groner" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREBsu6iAwju5ygatALl9O0vGuRhxW2N2ili0iDaXhmAjOWy6yc2A9EHfCh8azrsf7CQf4&usqp=CAU"/>
+<div>
+
+Além disso, mantém uma presença forte no GitHub e na comunidade da WoMakersCode. Uma verdadeira referência para nós mulheres. 💪🏽👩‍💻
+
+## 4 - Projeto online
+
+💁‍♀️ Em breve a versão demo em [GitHub Pages](https://pages.github.com/).
+<br>
+
+## 5 - Links úteis
+
+[Guia Seo](https://dev.to/beatrizmaciel/guia-seo-para-desenvolvedores-2022-1log) |
+[Guia Bem](https://getbem.com/introduction)
+
+<br>
 
 ---
 
@@ -30,3 +57,9 @@ Obtivemos a experiência numa jornada de 5 semanas de curso em habilidades prát
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 
+---
+<div style="text-align: center;">
+
+ 🔗 Praticando com ♥ por [Anaísa Mayara Teodoro](https://github.com/anaisateodoro) com a mentoria das Devs da [WoMakersCode](https://womakerscode.org/)  ♥ .
+
+</div>
