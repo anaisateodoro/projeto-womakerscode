@@ -31,11 +31,13 @@
 ## 3 - Tema escolhido 💻
 
 👩‍💻 Desenvolvedora de software altamente experiente e conhecida por seus feitos em comunidades de tecnologia, **Loiane Groner** compartilha seus conhecimentos como uma speaker e dev internacional, fornecendo treinamentos técnicos e escrevendo livros, artigos e blogs. 📚💻
+<br>
 
 <div align="center">
     <img width="100px" title="Loiane Groner" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREBsu6iAwju5ygatALl9O0vGuRhxW2N2ili0iDaXhmAjOWy6yc2A9EHfCh8azrsf7CQf4&usqp=CAU"/>
-<div>
+</div>
 
+<br>
 Além disso, mantém uma presença forte no GitHub e na comunidade da WoMakersCode. Uma verdadeira referência para nós mulheres. 💪🏽👩‍💻
 
 ## 4 - Projeto online
@@ -43,11 +45,13 @@ Além disso, mantém uma presença forte no GitHub e na comunidade da WoMakersCo
 💁‍♀️ Em breve a versão demo em [GitHub Pages](https://pages.github.com/).
 <br>
 
+![moodboard](https://github.com/anaisateodoro/projeto-womakerscode/assets/70113922/045f6a24-fb9f-4b34-acd2-0f1c8c84cc0e)
+
 ## 5 - Links úteis
 
 [Guia Seo](https://dev.to/beatrizmaciel/guia-seo-para-desenvolvedores-2022-1log) |
-[Guia Bem](https://getbem.com/introduction)
-
+[Guia Bem](https://getbem.com/introduction) |
+[Loiane Groner](https://loiane.com/)
 <br>
 
 ---
