@@ -7,7 +7,6 @@
 
 }
 
-
 * {
   padding: 0;
   margin: 0;
@@ -16,11 +15,28 @@
   text-decoration-color: var(--primary-color);
 }
 
+p, h2{
+  color: var(--text-color);
+}
 body {
   font-family: Arial, Helvetica, sans-serif;
   background-color: var(--body-color);
 }
 
+/*botão contraste - muda cor*/
+
+body.dark-mode {
+  background-color: white;
+  color: var(----text-color);
+}
+
+#theme-toggle {
+  float: left;
+  margin-top: 10px;
+  margin-right: 10px;
+}
+
+/*Fim botão muda cor*/
 .content-layout {
   min-width: 20em;
   width: 100%;
@@ -178,7 +194,7 @@ section.slider {
 
 .nav-manual .manual-btn,
 .nav-auto div {
-  border: 1px solid #ff0054;
+  border: 1px solid #76677d;
   padding: 10px;
   border-radius: 50%;
   cursor: pointer;
@@ -191,13 +207,13 @@ section.slider {
 }
 
 .nav-manual .manual-btn:hover {
-  background-color: #ff0054;
+  background-color: white;
 }
 
 #radio1:checked~.nav-auto .auto-btn1,
 #radio2:checked~.nav-auto .auto-btn2,
 #radio3:checked~.nav-auto .auto-btn3 {
-  background-color: #ff0054;
+  background-color: #76677d;
 }
 
 #radio1:checked~.primeiro {
@@ -410,7 +426,7 @@ section p {
 }
 
 .cookies-msg .cookies-btn button {
-  background-color: #000;
+  background-color: var(--header-color);
   color: var(--text-color);
   font-weight: 700;
   font-size: 18px;
@@ -424,3 +440,7 @@ section p {
 }
 
 /*Fim dos cookies*/
+
+.bx bx-menu title-button__icon{
+  color:var(--primary-color);
+}
