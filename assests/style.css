@@ -4,7 +4,10 @@
   --header-color: #ffffff;
   --text-color: #76677d;
   --body-color: #1b0327;
-
+  --text-section-primary-color:#8f0656;
+  --text-section-header-color:#ffffff;
+  --text-section-body-color:#76677d;
+  --text-section-text-color:#1b0327;
 }
 
 * {
@@ -25,10 +28,16 @@ body {
 
 /*botão contraste - muda cor*/
 
-body.dark-mode {
-  background-color: white;
+.dark-mode  {
+  background-color: black!important;
+  color: var(----text-color)!important;
+}
+
+.light-mode  {
+  background-color: rgb(231, 231, 231)!important;
   color: var(----text-color);
 }
+
 
 #theme-toggle {
   float: left;
@@ -48,14 +57,14 @@ body.dark-mode {
   position: relative;
   width: 100%;
   max-width: 61.875em;
-  height: 4.5em;
+  height: 2.5em;
   margin: 0 auto;
   overflow-y: hidden;
   transition: height 0.6s linear;
 }
 
 .header--active {
-  height: 14.75em;
+  height: 18.75em!important;
 }
 
 .header__title-button {
@@ -114,7 +123,32 @@ body.dark-mode {
   font-size: 2.5rem;
   transition: transform 0.6s linear;
 }
+@media screen and (max-width: 768px){
+  .title-button__button {
+    display: block!important;
+  }
+  .header__title-button {
+    padding: 1em!important;
+  }
+  .header {
+    overflow:hidden;
+    height:4.5em;
+  }
+  .header__nav-socials {
+    padding-left: 1em;
+    padding-top: 0.5em;
+  }
 
+  .header__nav-routes{
+    width: 100%!important;
+  }
+  .nav-routes__list {
+    width:100%;
+    gap:0;
+    justify-content: space-around;
+  }
+
+}
 @media screen and (width >=771px) {
   .header {
     display: flex;
@@ -248,7 +282,7 @@ section.slider {
 }
 
 .header__title-button {
-  width: max-content;
+  width: 100%;
   padding: 0;
 }
 

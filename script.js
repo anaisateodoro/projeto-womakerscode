@@ -45,9 +45,15 @@ if (localStorage.lgpd == 'sim') {
     msgCookies.classList.add('mostrar')
 }
 
+function contraste_tema(){
+    var todos_elementos = document.querySelectorAll("div, section, nav, main, footer");
+    todos_elementos.forEach((elemento) => {
+        //elemento.classList.toggle('dark-mode');
+        elemento.classList.toggle('light-mode');
+    })
+}
 //
 document.getElementById('theme-toggle').addEventListener('click', function() {
-    document.body.classList.toggle('dark-mode');
-    document.body.classList.toggle('light-mode');
-   });
+    contraste_tema()
+});
    
