@@ -39,6 +39,7 @@ body {
 .light-mode  {
   background-color: rgb(231, 231, 231)!important;
   color: var(----text-color);
+ 
 }
 
 
@@ -187,7 +188,7 @@ body {
   }
 
   100% {
-    background-position: 400%;
+    background-position: 100%;
   }
 }
 

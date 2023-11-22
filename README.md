@@ -19,6 +19,9 @@
 - [x] Criar o site com uso das stacks aprendidas;
 - [x] Por fim, inserir aqui no Github o resultado;
 
+
+
+
 ## 2 - Tecnologias utilizadas 🛠️
 
 <table style="margin-left: auto; margin-right: auto;">
@@ -46,6 +49,9 @@ Além disso, mantém uma presença forte no GitHub e na comunidade da WoMakersCo
 <br>
 
 ![moodboard](https://github.com/anaisateodoro/projeto-womakerscode/assets/70113922/045f6a24-fb9f-4b34-acd2-0f1c8c84cc0e)
+
+![mobile](https://github.com/anaisateodoro/projeto-womakerscode/assets/70113922/9df527c9-7d47-4cd0-9d5e-8b7c288d2bd6)
+
 
 ## 5 - Links úteis
 
