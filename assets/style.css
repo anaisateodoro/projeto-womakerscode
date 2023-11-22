@@ -21,6 +21,7 @@
 p, h2{
   color: var(--text-color);
   text-align: justify;
+  line-height: 32px;
   
 }
 body {
@@ -496,4 +497,16 @@ section p {
   color:var(--primary-color);
   
   
+}
+
+/*Setinha*/
+#link-principal{
+  position:fixed;
+  right: 20px;
+  bottom: 20px;
+  color:var(--text-section-body-color);
+  background-color: var(--branco);
+  border-radius: 50%;
+  z-index: 100;
+  font-size: 3em;
 }
