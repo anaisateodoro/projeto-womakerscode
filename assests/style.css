@@ -1,4 +1,4 @@
-/* Global Variables */
+/* Global variáveis */
 :root {
   --primary-color: #8f0656;
   --header-color: #ffffff;
@@ -20,10 +20,13 @@
 
 p, h2{
   color: var(--text-color);
+  text-align: justify;
+  
 }
 body {
   font-family: Arial, Helvetica, sans-serif;
   background-color: var(--body-color);
+  margin: auto;
 }
 
 /*botão contraste - muda cor*/
@@ -43,6 +46,10 @@ body {
   float: left;
   margin-top: 10px;
   margin-right: 10px;
+  margin-left: 10px;
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+  text-decoration-color: var(--primary-color);
 }
 
 /*Fim botão muda cor*/
@@ -171,7 +178,7 @@ body {
   outline: none;
   position: initial;
   text-align: center;
-  padding: 150px;
+  padding: 50px;
 }
 
 @keyframes degrade {
@@ -181,6 +188,15 @@ body {
 
   100% {
     background-position: 400%;
+  }
+}
+
+@media screen and (width >=771px) {
+  .main__section {
+  outline: none;
+  position: initial;
+  text-align: center;
+  padding: 50px;
   }
 }
 
@@ -330,12 +346,12 @@ section.slider {
 html {
   scroll-behavior: smooth;
   font-family: Arial, Helvetica, sans-serif;
-  text-decoration-color: var(--primary-color);
+  text-decoration-color: var(--primary-color);  
 }
 
 .container1 {
   max-width: 1080px;
-  margin: 0 auto;
+  margin: 0 auto;  
 }
 
 section {
@@ -477,4 +493,6 @@ section p {
 
 .bx bx-menu title-button__icon{
   color:var(--primary-color);
+  
+  
 }

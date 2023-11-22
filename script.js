@@ -46,7 +46,7 @@ if (localStorage.lgpd == 'sim') {
 }
 
 function contraste_tema(){
-    var todos_elementos = document.querySelectorAll("div, section, nav, main, footer");
+    var todos_elementos = document.querySelectorAll("html,div, section, nav, main, footer");
     todos_elementos.forEach((elemento) => {
         //elemento.classList.toggle('dark-mode');
         elemento.classList.toggle('light-mode');
